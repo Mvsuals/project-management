@@ -10,8 +10,8 @@ Ensure you have these tools installed:
 Git
 Node.js
 npm (Node Package Manager)
-PostgreSQL (download)
-PgAdmin (download)
+PostgreSQL 
+PgAdmin 
 Installation Steps
 Clone the repository: git clone [git url] cd project-management
 
